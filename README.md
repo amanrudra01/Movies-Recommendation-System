@@ -13,7 +13,7 @@ This is a movie recommendation system built using Python, Streamlit, and Scikit-
 - Python 3.x
 - Streamlit
 - Scikit-learn
-
+Lastly export your own similarity.pkl file and use it to run the final model
 
 ## Clone the repository:
 
