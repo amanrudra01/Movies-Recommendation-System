@@ -25,4 +25,6 @@ git clone https://github.com/your-username/movie-recommendation-system.git
 
 
 ## Run the Streamlit app:
+```bash
 streamlit run app.py
+```
